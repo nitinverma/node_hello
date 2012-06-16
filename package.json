@@ -1,0 +1,8 @@
+{
+    "name": "first",
+    "description": "Try Something",
+    "version": "0.1.0",
+    "author": "Nitin Verma",
+    "dependencies": {},
+    "devDependencies": {}
+}
